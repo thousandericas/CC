@@ -1,7 +1,3 @@
-Markdown Executive Summary
-
- 
-
 # The Psychology of Climate Anxiety
 
  
