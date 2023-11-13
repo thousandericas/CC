@@ -5,11 +5,7 @@
 
  
 
-Current media and journalism is depicting the reality of the current state of the planet, inciting panic among the public.
-
- 
-
-**Climate Anxiety:** anxious feelings and worries about climate change regardless of whether the individual has been directly impacted (Schwartz et al., 2022).
+Current media and journalism is depicting the reality of the current state of the planet, inciting panic among the public. Climate Anxiety is defined as anxious feelings about climate change regardless of whether the individual is directly impacted (Schwartz et al., 2022).
 
  
 
@@ -78,11 +74,7 @@ The quantifiable threat of the pandemic reduced uncertainty and saw a more decis
 
  
 
-- Climate-related distress is often compounded by the perceived inaction of regulatory bodies (Hickman, 2020).
-
-- A multi-step approach can be an effective solution, with both long-term and short-term applications to combat climate anxiety (Tam, Chan and Clayton, 2023).
-
-- It is essential to harness climate anxiety as a catalyst for change that promotes a sense of agency and encourages action.
+Climate-related distress is often compounded by the perceived inaction of regulatory bodies (Hickman, 2020). A multi-step approach can be an effective solution, with both long-term and short-term applications to combat climate anxiety (Tam, Chan and Clayton, 2023). It is essential to harness climate anxiety as a catalyst for change that promotes a sense of agency and encourages action.
 
  
 
