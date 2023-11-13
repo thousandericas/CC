@@ -1,4 +1,9 @@
 <h1 style="text-align: center;">The Psychology of Climate Anxiety</h1>
+<h2 style="text-align: center;">Public Summary</h2>
+<p style="text-align: center;">
+ Fatemeh Ilkhani, Abdullah Islam, Erica Li, Shreya Sharma, Naira Woo
+ iSci 3A12, Fall 2023
+ /p>
  
 ## Anxiety Around Climate Change
 
