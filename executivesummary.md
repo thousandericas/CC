@@ -13,7 +13,7 @@ Current media and journalism is depicting the reality of the current state of th
 
  
 
-### Climate anxiety ranges from… 
+Climate anxiety ranges from… 
 
 - **Feelings:** Apocalyptic fears to complex feelings around loss, grief, guilt (Dodds, 2021).
 
@@ -54,9 +54,6 @@ The COVID-19 pandemic shares many similarities with the climate crisis — they 
 
 - **Global inequity** → disproportionately affects vulnerable populations (Klenert et al., 2020).
 
- 
-
-**Cognitive dissonance:** the harbouring of thoughts contradictory to one's actions, preventing response (Burrows, Abellera and Markowitz, 2023).
 
 Individuals ignored safety regulations put into place, potentially due to the limited tangible benefits to following these policies (McGrath, 2017). Blame is often placed on governments and the public, preventing individual response (Hinterleitner, Honegger and Sager, 2022). Individuals also blame others (e.g., political parties, countries) to protect one's ingroup (Bouguettaya, Walsh and Team, 2022). Both crises can cause individuals to adopt a zero-sum mentality; that the outgroup's gain comes at one’s own personal loss (Hasselmann et al., 2013).
 
