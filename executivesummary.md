@@ -27,19 +27,11 @@ The causes of climate anxiety include individual experiences, media outlets, and
 
 ## Climate Anxiety: Motivating or Paralysing Global Response?
 
-The effects of climate anxiety on global climate change response has been highly debated about whether it discourages or propagates climate action. An individual’s self-conceptualization influences potential response to climate change threats (Fritsche and Häfner, 2012).
-
-- Environmentally conscious → tendency for pro-environmental conduct.
-
-Human behavior is driven by the fear of death, leading to cultural beliefs and behaviors that mitigate this existential anxiety (Wolfe and Tubi, 2019).
-
-- Fear of mortality → tendency for self-preservation, without regard for others and environment.
-
- 
+The effects of climate anxiety on global climate change response has been highly debated about whether it discourages or propagates climate action. An individual’s self-conceptualization plays a significant role in shaping their response to climate threats, where those with an environmentally conscious mindset are more likely to engage in pro-environmental behaviors. (Fritsche and Häfner, 2012). Human behavior is driven by the fear of death, leading to cultural beliefs and behaviours promoting self-preservation, without regard for others and the environment, while mitigating this existential anxiety (Wolfe and Tubi, 2019).
 
 Low engagement in climate response may be due to displacement of responsibility, or eco-paralysis stemming from fear and anxiety (Stanley et al., 2021). Climate anxiety has also been associated with scepticism, which can cause conspiratorial thinking (Haltinner and Sarathchandra, 2018). An adaptive, moderate level of climate anxiety is a strong predictor of individual climate action (van Valkengoed and Steg, 2019).
 
- 
+
 
 ## Learning from COVID-19
 
