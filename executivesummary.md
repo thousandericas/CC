@@ -1,7 +1,4 @@
-<div align="right">
-  # The Psychology of Climate Anxiety
-</div>
-
+<h1 style="text-align: center;">The Psychology of Climate Anxiety</h1>
  
 ## Anxiety Around Climate Change
 
