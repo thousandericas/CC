@@ -2,7 +2,7 @@
 <h2 style="text-align: center;">Public Summary</h2>
 <p style="text-align: center;">
  Fatemeh Ilkhani, Abdullah Islam, Erica Li, Shreya Sharma, Naira Woo
- iSci 3A12, Fall 2023
+ <br> iSci 3A12, Fall 2023
  </p>
  
 ## Anxiety Around Climate Change
