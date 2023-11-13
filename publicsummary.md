@@ -3,7 +3,7 @@
 <p style="text-align: center;">
  Fatemeh Ilkhani, Abdullah Islam, Erica Li, Shreya Sharma, Naira Woo
  iSci 3A12, Fall 2023
- /p>
+ </p>
  
 ## Anxiety Around Climate Change
 
